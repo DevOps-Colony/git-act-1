@@ -1,4 +1,4 @@
-# GitHub Actions Deployment Demo
+# GitHub Actions Deployment Demo :
 
 This project demonstrates how to set up a simple GitHub Actions workflow to deploy a static website to GitHub Pages.
 
